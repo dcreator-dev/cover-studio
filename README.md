@@ -10,14 +10,14 @@
 Cover Studio is a browser-based tool I built to solve a real pain point: VK and Kwork crop cover images differently on mobile and desktop. The tool shows live safe-zones, so you always see what will be visible on every device before exporting.
 
 ## 🇷🇺 О проекте
-Cover Studio — браузерный инструмент, который я создал для решения реальной боли: ВК и Kwork по-разному обрезают обложки на мобильном и десктопе. Инструмент показывает живые safe-зоны, чтобы ты всегда видел, что будет видно на каждом устройстве, до экспорта.
+Cover Studio — браузерный инструмент, который я создал для решения реальной боли: ВК и Kwork по-разному обрезают обложки на мобильном и десктопе. Инструмент показывает живые safe-зоны, чтобы ты всегда видел, что будет видно на каждом устройстве до экспорта.
 
 ---
 
 ## ✨ Features / Возможности
 
 - 📱 **Live mobile safe-zones** — пунктирная рамка показывает видимую область на телефоне
-- 🎨 **Brand palettes** — фирменные цвета D Creator (Navy, Aurora, Acid, Sunset, Emerald, Mono)
+- 🎨 **Brand palettes** — фирменные цвета DCreator (Navy, Aurora, Acid, Sunset, Emerald, Mono)
 - 🖼️ **Glassmorphism + particles** — живой фон с частицами и стеклянными фигурами
 - 📤 **Full-size export** — PNG в полном разрешении (до 4096px) и SVG
 - 🔄 **Real-time preview** — все изменения видны мгновенно
@@ -36,9 +36,11 @@ Cover Studio — браузерный инструмент, который я с
 
 ---
 
-## 🚀 Live Demo
+## 📂 Repository Status
 
-👉 [dcreator-dev.github.io](https://dcreator-dev.github.io/)
+✅ Core logic implemented  
+✅ UI/UX and brand themes ready  
+🚀 Deployment to GitHub Pages: In progress  
 
 ---
 
@@ -50,4 +52,4 @@ Cover Studio — браузерный инструмент, который я с
 
 ---
 
-<p align="center"><i>Built by D Creator · 2026</i></p>
+<p align="center"><i>Built by DCreator · 2026</i></p>
